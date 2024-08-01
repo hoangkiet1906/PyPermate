@@ -1,19 +1,13 @@
-import pytest
 import time
-from Drivers.chrome_driver import get_chrome_driver
+import allure
 from Pages.Common.login_page import LoginPage
 from Utils.config import Config
 from Utils.logger import setup_logger
 
 logger = setup_logger("TestLogin")
 
-@pytest.fixture
-def setup():
-    driver = get_chrome_driver()
-    driver.get(Config.BASE_URL)
-    yield driver
-    driver.quit()
-
+@allure.feature('Login Feature')
+@allure.story('Valid Login')
 def test_login(setup):
     driver = setup
     login_page = LoginPage(driver)

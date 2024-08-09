@@ -1,2 +1,0 @@
-2024-08-02 00:19:59,946 - TestLogin - INFO - Starting login test
-2024-08-02 00:20:01,114 - TestLogin - INFO - Login test completed

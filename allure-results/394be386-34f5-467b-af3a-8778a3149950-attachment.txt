@@ -1,0 +1,5 @@
+2024-08-10 03:13:51,685 - TestSetup - INFO - Starting login
+2024-08-10 03:13:52,868 - TestSetup - INFO - Login completed
+2024-08-10 03:13:52,868 - TestAddToCartProduct - INFO - Starting add to cart test
+2024-08-10 03:13:52,884 - TestAddToCartProduct - INFO - Product correct
+2024-08-10 03:13:53,907 - TestAddToCartProduct - INFO - Add to cart test completed

@@ -1,0 +1,5 @@
+[32mINFO    [0m TestSetup:conftest.py:22 Starting login
+[32mINFO    [0m TestSetup:conftest.py:27 Login completed
+[32mINFO    [0m TestAddToCartProduct:test_case_add_to_cart_product.py:13 Starting add to cart test
+[32mINFO    [0m TestAddToCartProduct:test_case_add_to_cart_product.py:15 Product correct
+[32mINFO    [0m TestAddToCartProduct:test_case_add_to_cart_product.py:18 Add to cart test completed

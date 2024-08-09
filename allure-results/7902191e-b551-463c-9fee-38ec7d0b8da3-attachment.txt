@@ -1,2 +1,0 @@
-[32mINFO    [0m TestLogin:test_case_login.py:14 Starting login test
-[32mINFO    [0m TestLogin:test_case_login.py:19 Login test completed

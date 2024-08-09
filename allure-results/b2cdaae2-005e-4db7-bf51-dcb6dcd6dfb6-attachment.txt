@@ -1,0 +1,2 @@
+[32mINFO    [0m TestSetup:conftest.py:22 Starting login
+[32mINFO    [0m TestSetup:conftest.py:27 Login completed
